@@ -33,7 +33,7 @@ def main():
     parser.add_argument("--file_dir", type=str, default="data/DBP15K/zh_en", required=False, help="input dataset file directory, ('data/DBP15K/zh_en', 'data/DWY100K/dbp_wd')")
     parser.add_argument("--rate", type=float, default=0.3, help="training set rate")
 
-    parser.add_argument("--save", default="output", help="the output dictionary of the model and embedding")
+    parser.add_argument("--save", default="", help="the output dictionary of the model and embedding. (should be created manually)")
     parser.add_argument("--cuda", action="store_true", default=True, help="whether to use cuda or not")
 
     parser.add_argument("--seed", type=int, default=2018, help="random seed")
