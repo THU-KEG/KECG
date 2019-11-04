@@ -1,5 +1,5 @@
 # KECG
-Source code and datasets for EMNLP 2019 paper "[Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://xlore.org)".
+Source code and datasets for EMNLP 2019 paper "[Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model](https://www.aclweb.org/anthology/D19-1274.pdf)".
 
 
 ## Reqirements
